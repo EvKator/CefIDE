@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:CefIDE"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary  Source="PlanerTheme.xaml"/>
+
     </Application.Resources>
 </Application>

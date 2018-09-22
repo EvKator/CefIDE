@@ -1,0 +1,1 @@
+Print InnerHTML '//div[@class="trading-data_m-unit-bet-opinions-most"]/div/span[1]';
