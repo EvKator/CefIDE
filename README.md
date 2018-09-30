@@ -1,5 +1,5 @@
 # CefIDE
-Convenient interpreter for creating Internet bots, parsers, based on CefSharp
+Convenient IDE for creating scripts (internet bots, parsers) for CefPreter
 ## Basic Information
 
 There are 4 tabs on main window: Code(your script), Browser, Stack(CefPreter variables), Log. All tabs are selective and with variable sizes
