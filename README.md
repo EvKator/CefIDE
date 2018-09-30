@@ -1,5 +1,7 @@
 # CefIDE
-Convenient IDE for creating scripts (internet bots, parsers) for CefPreter
+Convenient IDE for creating scripts (internet bots, parsers) to use then in your C# programs with CefPreter. This is the way to quickly and easily create bots on C#.
+
+Also uyo can use CefIDE with sctipt as a full bot
 ## Basic Information
 
 There are 4 tabs on main window: Code(your script), Browser, Stack(CefPreter variables), Log. All tabs are selective and with variable sizes
